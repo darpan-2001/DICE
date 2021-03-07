@@ -1,0 +1,13 @@
+body {
+    background-color: #c7ffd8;
+  }
+.heading-top{
+    text-align: center;
+    font-size: 5rem;
+    font-weight: 200;
+    color: #ff005c;
+    font-family: 'Bangers', cursive;
+}
+.container{
+    text-align: center;
+}
